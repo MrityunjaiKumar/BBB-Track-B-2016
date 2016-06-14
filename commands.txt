@@ -14,3 +14,16 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 
 Incase network not accessible then type the following in BBB terminal 
 echo "nameserver 8.8.8.8" >> /etc/resolv.conf
+
+
+
+
+################################################################
+
+#Commands for setting up VNC/RDP
+
+sudo apt-get install x11vnc
+
+sudo x11vnc -bg -o %HOME/.x11vnc.log.%VNCDISPLAY -auth /var/run/lightdm/root/:0 –forever
+
+VNC viewer(https://www.realvnc.com/download/viewer/)
