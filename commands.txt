@@ -27,3 +27,5 @@ sudo apt-get install x11vnc
 sudo x11vnc -bg -o %HOME/.x11vnc.log.%VNCDISPLAY -auth /var/run/lightdm/root/:0 –forever
 
 VNC viewer(https://www.realvnc.com/download/viewer/)
+ 
+sudo x11vnc -display :0 -forever
