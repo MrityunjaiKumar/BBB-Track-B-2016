@@ -7,7 +7,7 @@ Below is the schematic of the BBB cape zero (an elementary board being used for 
 
 #Pin mapping  
 #####Seven segment display pinouts
-led           | BBB P9 pin
+LED           | BBB P9 pin
 :-----------: |:-----------:
 a             | "P9_15"
 b             | "P9_16"
@@ -17,7 +17,7 @@ e             | "P9_27"
 f             | "P9_13"
 g             | "P9_11"  
 #####Other peripherals
-component       | corresponding pin
+Component       | Corresponding pin
 :--------------:|:-----------------:
 LED             |"P9_14"
 Push Button     |"P9_41"
