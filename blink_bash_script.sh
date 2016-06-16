@@ -1,4 +1,8 @@
 #!/bin/bash
+#This code is for blinking the "a" of seven segment display 
+#@author: Mrityunjai
+#@handle: MrityunjaiKumar
+#@website: www.mrityunjai.in
 i=0
 echo 48 > /sys/class/gpio/export
 echo "exporting 48 pin"
