@@ -1,4 +1,4 @@
-# BBBtutorial
+# BBB (Track-B) 2016
 This repository contains some of the commands/scripts/topics used for TI-CEPD 2016 summer internship.  
 Below is the schematic for the BBB cape zero (an elementary board being used for hardware-interfacing) for pin-mapping and basic interfacings.  
 
