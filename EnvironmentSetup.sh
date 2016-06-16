@@ -1,5 +1,5 @@
 #!/bin/bash
-#this script will setup python environment for gpio handling in BBB
+#this script will setup python environment and install Adafruit's gpio handling library in BBB
 #@author: Mrityunjai
 #@handle: MrityunjaiKumar
 #@website: www.mrityunjai.in
